@@ -41,6 +41,13 @@ test:
 	$(ACTIVATE) && pytest
 
 # -------------------------
+# Integration Makefile
+# -------------------------
+
+docs:
+	./tools/pipeline.sh
+
+# -------------------------
 #  Lint & Format
 # -------------------------
 
