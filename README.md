@@ -30,99 +30,6 @@ Ce projet a pour ambition de devenir une base de connaissance exhaustive, un out
 
 ---
 
-📚 Documentation incluse
-
-📘 1. Aperçu général
-- Histoire de Samsung Mobile  
-- Présentation des gammes (S, Note, A, M, Z…)  
-- Innovations majeures  
-
-📱 2. Catalogue complet des appareils
-Chaque modèle inclut :  
-- Année  
-- Gamme  
-- CPU / GPU  
-
----
-
-🧪 Modules techniques
-
-🟦 API REST / GraphQL
-Endpoints prévus :  
-- /devices  
-- /devices/{id}  
-- /os/versions  
-- /benchmarks  
-- /compare  
-
-🟩 CLI
-Commandes :  
-- samsung list  
-- samsung info <model>  
-- samsung compare <model1> <model2>  
-- samsung os-history  
-
-🟨 Scripts d’import
-- Scraping  
-- Normalisation  
-- Export JSON/CSV  
-
-🟥 Génération automatique
-- Fiches techniques  
-- Tableaux comparatifs  
-- Documentation Markdown  
-
----
-
-🎨 Identité visuelle
-
-Palette inspirée de Samsung
-| Élément | Couleur |
-|--------|---------|
-| Bleu principal | #1428A0 |
-| Bleu clair | #1D4ED8 |
-| Noir profond | #0A0A0A |
-| Gris acier | #A3A3A3 |
-| Blanc pur | #FFFFFF |
-
-Style
-- Minimaliste  
-- Futuriste  
-- Inspiré One UI  
-- Premium  
-
----
-
-🗺️ Roadmap
-
-Phase 1 — Fondations
-- Architecture du projet  
-- Documentation initiale  
-- Datasets de base  
-
-Phase 2 — Données
-- Collecte des modèles  
-- Normalisation des specs  
-- Historique des OS  
-
-Phase 3 — Développement
-- API  
-- CLI  
-- Scripts d’import  
-
-Phase 4 — Documentation avancée
-- Sécurité  
-- Architecture OS  
-- Comparatifs  
-
-Phase 5 — Branding & publication
-- README final  
-- Logo  
-- Site statique (optionnel)  
-- Publication GitHub  
-
----
-
 🤝 Contribution
 
 Les contributions sont les bienvenues :  
@@ -140,6 +47,6 @@ Les contributions sont les bienvenues :
 
 🚀 Statut du projet
 
-En développement actif.
+En cours de développement actif ...
 
 ---
