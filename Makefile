@@ -41,7 +41,7 @@ test:
 	$(ACTIVATE) && pytest
 
 # -------------------------
-# Integration Makefile
+#  Integration Makefile
 # -------------------------
 
 docs:
