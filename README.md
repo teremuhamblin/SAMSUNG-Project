@@ -205,8 +205,7 @@ Les contributions sont les bienvenues :
 ---
 
 📜 Licence
-
-À définir selon ton choix (MIT, Apache 2.0, GPL, etc.)
+- MIT License
 
 ---
 
