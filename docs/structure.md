@@ -1,4 +1,9 @@
-📂 Structure complète du projet :
+structure.md 
+- mise à jour
+
+---
+
+📂 Structure complète du projet
 - Samsung Devices & OS Knowledge Suite
 
 `
@@ -7,6 +12,25 @@ samsung-project/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
+│
+├── CHANGELOG.md
+├── SUPPORT.md
+├── FUNDING.md
+│
+├── CONTRIBUTING.md
+├── CODEOFCONDUCT.md
+├── SECURITY.md
+├── GOVERNANCE.md
+│
+├── .github/
+│   ├── pullrequesttemplate.md
+│   │
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── issue_template.md
+│   │   ├── bug_report.md
+│   │   └── feature_request.md
+│   │
+│   └── workflows/        ← (optionnel pour CI/CD)
 │
 ├── docs/
 │   ├── overview/
@@ -129,24 +153,12 @@ samsung-project/
 
 ---
 
-🔥 Ce que cette structure apporte :
+🎯 Ce que cette version apporte
 
-✔ Une architecture professionnelle
-Inspirée des standards des projets open‑source sérieux.
-
-✔ Une séparation claire :
-- docs → tout le savoir  
-- data → datasets structurés  
-- src → API, CLI, scripts  
-- assets → branding & visuels  
-- tests → qualité & robustesse  
-
-✔ Une base solide pour :
-- Un site web  
-- Une API publique  
-- Un outil CLI  
-- Une base de données  
-- Un wiki technique  
-- Un projet GitHub premium  
+- Intégration complète de tous les fichiers de gouvernance  
+- Templates GitHub parfaitement placés  
+- Structure professionnelle digne d’un projet open‑source mature  
+- Organisation claire entre documentation, code, données, outils et assets  
+- Base idéale pour CI/CD, automatisation, API, CLI et documentation  
 
 ---
