@@ -1,0 +1,15 @@
+{
+  "documentation": ["md", "mdx", "html", "xml", "css"],
+  "code": {
+    "python": ["py"],
+    "java": ["java", "class"],
+    "rust": ["rs"],
+    "lisp": ["lisp"],
+    "javascript": ["js", "json"]
+  },
+  "scripts": ["sh", "bat", "ps1"],
+  "containers": ["yaml", "yml", "Dockerfile"],
+  "assets": ["png", "jpg", "svg", "txt"],
+  "tests": ["py", "csv"],
+  "config": ["gitignore", "env", "ini", "cfg"]
+}
