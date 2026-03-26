@@ -1,5 +1,5 @@
 <p align="center">
-Téléphone Samsung FRANCE</p>
+SMARTPHONE SAMSUNG - FRANCE</p>
 <p align="center">
 📱 Samsung Devices & OS Knowledge Suite</p>
 
