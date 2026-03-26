@@ -1,0 +1,30 @@
+# CODEOWNERS — Samsung Devices & OS Knowledge Suite
+# Ce fichier définit les responsables automatiques des revues de code
+# et des validations pour chaque partie du projet.
+
+# Mainteneur principal (à personnaliser)
+* @Teremu
+
+# Documentation
+/docs/ @Teremu
+
+# Données et datasets
+/data/ @Teremu
+
+# API
+/src/api/ @Teremu
+
+# CLI
+/src/cli/ @Teremu
+
+# Parsers & outils d’import
+/src/parsers/ @Teremu
+
+# Assets & branding
+/assets/ @Teremu
+
+# Tests
+/tests/ @Teremu
+
+# Templates GitHub
+/.github/ @Teremu
