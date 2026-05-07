@@ -1,0 +1,12 @@
+blank_issues_enabled: false
+
+contact_links: []
+
+# Active le sélecteur de templates PR dans GitHub
+pull_request_templates:
+  - name: "Général"
+    path: "PULL_REQUEST_TEMPLATE/general.md"
+  - name: "Correction de bug"
+    path: "PULL_REQUEST_TEMPLATE/bugfix.md"
+  - name: "Nouvelle fonctionnalité"
+    path: "PULL_REQUEST_TEMPLATE/feature.md"
