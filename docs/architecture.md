@@ -3,7 +3,7 @@
 📂 STRUCTURE DU PROJET
 - Samsung Devices & OS Knowledge Suite
 
-`
+```md
 samsung-project/
 │
 ├── README.md
@@ -165,7 +165,7 @@ samsung-project/
     ├── generate_sitemap.lisp
     ├── generate-docs-next.js
     └── BuildTool.java
-`
+```
 
 ---
 
