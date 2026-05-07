@@ -1,7 +1,9 @@
-📚 docs — Documentation Officielle du Projet Smartphone Samsung
+###### README.md * markdown
+# 📚 docs
+###### Documentation Officielle du Projet Smartphone Samsung
 
-Le dossier docs contient l’ensemble de la documentation technique, fonctionnelle et conceptuelle du projet Samsung Next-Gen Smartphone.  
-Il constitue la référence principale pour les développeurs, designers, contributeurs et parties prenantes.
+>Le dossier docs contient l’ensemble de la documentation technique, fonctionnelle et conceptuelle du projet Samsung Next-Gen Smartphone.  
+- Il constitue la référence principale pour les développeurs, designers, contributeurs et parties prenantes.
 
 ---
 
